@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "name": "Intersteller",
+      "price": 10
+    },
+    {
+      "name": "Who I Am",
+      "price": 5
+    },
+    {
+      "name": "Kung Fu Panda",
+      "price": 8
+    },
+    {
+      "name": "Venom 3",
+      "price": 9
+    }
+  ]
+}
